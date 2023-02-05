@@ -14,3 +14,7 @@ ENV
 .project
 .pydevproject
 .idea
+
+# ignore data files
+*.csv
+*.json
