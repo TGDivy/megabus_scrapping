@@ -1,0 +1,16 @@
+# python gitignore
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.so
+
+# virtualenv
+venv
+ENV
+.env
+
+# virtualenvwrapper
+.project
+.pydevproject
+.idea
